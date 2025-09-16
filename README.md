@@ -1,6 +1,5 @@
-## 👋 Hey there, I’m Bhomik Sharma! 
 ![NN](https://github.com/user-attachments/assets/af469725-986e-4e34-bee4-25c72a9f2db2)
-
+## 👋 Hey there, I’m Bhomik Sharma! 
 🚀 **Computer Vision Engineer @ [OpenCV University](https://learnopencv.com/)**  
 💡 Writing exciting blogs on **AI & Computer Vision** covering **Diffusion Models, Vision-Language Models, JEPA models**, as well as managing courses related to Transformers and VLM .  
 
