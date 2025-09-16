@@ -27,7 +27,7 @@ Writing exciting blog posts on **AI & Computer Vision** covering **Diffusion Mod
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/bhomik-sharma-3152a4199/) 
 - [Blog Posts on LearnOpenCV.com](https://learnopencv.com/author/bhomik/)
 - [Twitter](https://x.com/Bhomik749) 
