@@ -29,7 +29,7 @@
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhomik-sharma-3152a4199/) 
-- 📝 [Blogs on LearnOpenCV.com]([https://opencv.org/](https://learnopencv.com/author/bhomik/)) 
+- 📝 [Blogs on LearnOpenCV.com](https://learnopencv.com/author/bhomik/)
 - 🐦 [Twitter](https://x.com/Bhomik749) 
 - 📧 bhomiksharma749@gmail.com 
 
