@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Bhomik Sharma!  
 
 🚀 **Computer Vision Engineer @ [OpenCV University]([https://opencv.org/](https://learnopencv.com/))**  
-💡 Writing exciting blogs on **AI & Computer Vision** covering **Diffusion Models, Vision-Language Models, JEPA models**, and other trendy topics.  
+💡 Writing exciting blogs on **AI & Computer Vision** covering **Diffusion Models, Vision-Language Models, JEPA models**, as well as managing courses related to Transformers and VLM .  
 
 ---
 
